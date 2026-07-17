@@ -1,0 +1,8 @@
+{
+  "name": "clawd-stoker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node stoker.mjs" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "viem": "^2.55.2" }
+}
